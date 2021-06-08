@@ -6,8 +6,7 @@ function App() {
   return (
     <div className="App">
         <Container>
-          <Navi></Navi>
-          
+          <Navi/>
         </Container>
     </div>
   );
